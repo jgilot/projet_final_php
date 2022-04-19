@@ -10,19 +10,19 @@
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
 
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Accueil</a>
+                        <a class="nav-link active" aria-current="page" href="index.php">Accueil</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Liste des Fruits</a>
+                        <a class="nav-link" href="fruitList.php">Liste des Fruits</a>
                     </li>
 
                     <li class="nav-item"></li>
-                        <a class="nav-link" href="#">Inscription</a>
+                        <a class="nav-link" href="register.php">Inscription</a>
                     </li>
 
                     <li class="nav-item">
-                    <a class="nav-link">Connexion</a>
+                    <a class="nav-link" href="connect.php">Connexion</a>
                     </li>
                 </ul>
                     <form class="d-flex">
